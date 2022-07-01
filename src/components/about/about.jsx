@@ -2,7 +2,7 @@
 
 import React from "react";
 import "./about.css";
-import ME from "./../../assets/me-about.jpg";
+import ME from "./../../assets/miscdp.jpg";
 import { RiAwardLine } from "react-icons/ri";
 import { FiUsers } from "react-icons/fi";
 import { RiFolderChartFill } from "react-icons/ri";
