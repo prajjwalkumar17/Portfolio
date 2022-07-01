@@ -3,6 +3,7 @@
 .services__container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  padding: 0rem 2rem;
   gap: 3rem;
 }
 .service {
