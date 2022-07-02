@@ -27,7 +27,10 @@
   width: 80%;
   margin: 0.8rem auto 0;
 }
-
+.history {
+  font-size: 0.6rem;
+  color: var(--color-light);
+}
 .swiper-pagination-clickable .swiper-pagination-bullet {
   background: var(--color-primary);
 }

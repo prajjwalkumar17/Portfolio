@@ -23,15 +23,13 @@ const about = () => {
             <article className="about__card">
               <RiAwardLine className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years working</small>
+              <small>1+ Years working</small>
             </article>
-
             <article className="about__card">
               <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>200+ Clients worldwide</small>
+              <h5>Organizations</h5>
+              <small>worked with 2+ firms</small>
             </article>
-
             <article className="about__card">
               <RiFolderChartFill className="about__icon" />
               <h5>Projects</h5>
@@ -39,9 +37,12 @@ const about = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis,
-            rem incidunt modi magnam, enim quod animi qui ratione omnis quis ab
-            odit nostrum asperiores. Dolore dicta nesciunt quis nemo deserunt.
+            la bienvenida people,
+            <br />
+            Its an honor that I got attention of this precious time of yours !!
+            <br />I am Prajjwal a fullstack Android and MERN developer with a
+            substantial tech stack starting all the way from Cprogramming to
+            Java, Python, Node and a lot more to explore.😈
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

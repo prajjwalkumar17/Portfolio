@@ -2,10 +2,10 @@
 
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "./../../assets/portfolio1.jpg";
-import IMG2 from "./../../assets/portfolio2.jpg";
-import IMG3 from "./../../assets/portfolio3.jpg";
-import IMG4 from "./../../assets/portfolio4.jpg";
+import IMG1 from "./../../assets/portfolio1.png";
+import IMG2 from "./../../assets/portfolio2.png";
+import IMG3 from "./../../assets/portfolio3.png";
+import IMG4 from "./../../assets/portfolio4.png";
 import IMG5 from "./../../assets/portfolio5.png";
 import IMG6 from "./../../assets/portfolio6.jpg";
 
@@ -13,43 +13,43 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Title of the production project 1",
-    github: "https://github.com/",
+    title: "WebRTC-P2P-Calling",
+    github: "https://github.com/prajjwalkumar17/VideoConfo",
     demo: "https://dibber.com/",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Title of the production project 2",
-    github: "https://github.com/",
+    title: "Plantifier",
+    github: "https://github.com/prajjwalkumar17/PLANTIFIER",
     demo: "https://dibber.com/",
   },
   {
     id: 3,
     image: IMG3,
-    title: "Title of the production project 3",
-    github: "https://github.com/",
-    demo: "https://dibber.com/",
+    title: "Cookbook",
+    github: "https://github.com/prajjwalkumar17/CookBook",
+    demo: "https://cookbook-main.netlify.app/",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Title of the production project 4",
-    github: "https://github.com/",
-    demo: "https://dibber.com/",
+    title: "TEAMOS",
+    github: "https://github.com/prajjwalkumar17/Competo",
+    demo: "https://play.google.com/store/apps/details?id=com.StartupBBSR.competo",
   },
   {
     id: 5,
     image: IMG5,
-    title: "Title of the production project 5",
-    github: "https://github.com/",
-    demo: "https://dibber.com/",
+    title: "Jobbers API and Android App",
+    github: "https://github.com/prajjwalkumar17/Jobbers_Api",
+    demo: "https://documenter.getpostman.com/view/19037589/UzBqnjZ8",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Title of the production project 6",
-    github: "https://github.com/",
+    title: "Gamethon",
+    github: "https://github.com/prajjwalkumar17/gamethon",
     demo: "https://dibber.com/",
   },
 ];

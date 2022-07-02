@@ -1,5 +1,4 @@
 /** @format */
-
 .about__container {
   display: grid;
   grid-template-columns: 35% 50%;
@@ -18,8 +17,6 @@
     transparent
   );
   display: grid;
-  margin-left: 13rem;
-  margin-bottom: 3rem;
   place-items: center;
 }
 .about__me-image {
@@ -29,7 +26,6 @@
   transform: rotate(10deg);
   transition: var(--transition);
 }
-
 .about__me-image:hover {
   transform: rotate(0deg);
 }
@@ -82,7 +78,6 @@
     margin: 1rem 0 1.5 rem;
   }
 }
-
 @media screen and (max-width: 600px) {
   .about__me {
     width: 65%;
