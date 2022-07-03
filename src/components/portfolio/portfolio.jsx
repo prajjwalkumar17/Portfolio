@@ -15,14 +15,14 @@ const data = [
     image: IMG1,
     title: "WebRTC-P2P-Calling",
     github: "https://github.com/prajjwalkumar17/VideoConfo",
-    demo: "https://github.com/prajjwalkumar17/VideoConfo",
+    demo: "https://www.loom.com/share/a965ba54b5784695b4f20183fa82a086",
   },
   {
     id: 2,
     image: IMG2,
     title: "Plantifier",
     github: "https://github.com/prajjwalkumar17/PLANTIFIER",
-    demo: "https://github.com/prajjwalkumar17/PLANTIFIER",
+    demo: "https://www.loom.com/share/efd92a37e61641848fd1c9a57518dad4",
   },
   {
     id: 3,
@@ -43,14 +43,14 @@ const data = [
     image: IMG5,
     title: "Jobbers API and Android App",
     github: "https://github.com/prajjwalkumar17/Jobbers_Api",
-    demo: "https://documenter.getpostman.com/view/19037589/UzBqnjZ8",
+    demo: "https://www.loom.com/share/64b611e565484b799379857570a37b98",
   },
   {
     id: 6,
     image: IMG6,
     title: "Gamethon",
     github: "https://github.com/prajjwalkumar17/gamethon",
-    demo: "https://github.com/prajjwalkumar17/gamethon",
+    demo: "https://www.loom.com/share/424e3e71b9ae4982a4d0969ac8577715",
   },
 ];
 
