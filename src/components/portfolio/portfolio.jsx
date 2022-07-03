@@ -7,7 +7,7 @@ import IMG2 from "./../../assets/portfolio2.png";
 import IMG3 from "./../../assets/portfolio3.png";
 import IMG4 from "./../../assets/portfolio4.png";
 import IMG5 from "./../../assets/portfolio5.png";
-import IMG6 from "./../../assets/portfolio6.jpg";
+import IMG6 from "./../../assets/portfolio6.png";
 
 const data = [
   {
@@ -15,14 +15,14 @@ const data = [
     image: IMG1,
     title: "WebRTC-P2P-Calling",
     github: "https://github.com/prajjwalkumar17/VideoConfo",
-    demo: "https://dibber.com/",
+    demo: "https://github.com/prajjwalkumar17/VideoConfo",
   },
   {
     id: 2,
     image: IMG2,
     title: "Plantifier",
     github: "https://github.com/prajjwalkumar17/PLANTIFIER",
-    demo: "https://dibber.com/",
+    demo: "https://github.com/prajjwalkumar17/PLANTIFIER",
   },
   {
     id: 3,
@@ -50,7 +50,7 @@ const data = [
     image: IMG6,
     title: "Gamethon",
     github: "https://github.com/prajjwalkumar17/gamethon",
-    demo: "https://dibber.com/",
+    demo: "https://github.com/prajjwalkumar17/gamethon",
   },
 ];
 
